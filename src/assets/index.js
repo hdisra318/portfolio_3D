@@ -32,9 +32,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import icat from "./company/logo_icat.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import medfil from "./medfil.png";
+import calculadora from "./calculadora.png";
 
 export {
   logo,
@@ -63,12 +62,11 @@ export {
   starbucks,
   tesla,
   icat,
-  carrent,
-  jobit,
-  tripguide,
   github_logo,
   java,
   latex,
   swift,
   android,
+  calculadora,
+  medfil,
 };
